@@ -43,9 +43,13 @@ img {
 
 .content {
   width: 65vw;
-  margin: auto;
+  margin: 20px auto auto;
   display: flex;
   align-items: center;
   flex-direction: column;
   font-family: 'Lato', sans-serif;
+}
+
+.content p {
+  font-size: 18px;
 }
